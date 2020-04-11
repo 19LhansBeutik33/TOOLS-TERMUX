@@ -25,8 +25,8 @@ banner(){
 echo "$r
 ✠$b──────────────────────────────────────────────────────────$r✠
 $r
-     ██████$w╗ $w DiRetasBy $y: \033[96mRED HAT
- $r   ██ ██ ██$w╗$w Github $y: \033[90mhttps://github.com/19LhansBeutik33
+     ██████$w╗ $w DiRetasBy $y: \033[92mRED HAT
+ $r   ██ ██ ██$w╗$w Github $y: \033[92mhttps://github.com/19LhansBeutik33
 $r    ████████$w║$p ___  _ _  _ $y,\033[95m___$c _  _ ____ ____ _  _ $r™
     $r████  ██$w║ $p|  \ | |\ |   /  $c|  | | __ |___  \/
     $w╚$r██████$w╔╝ $p|__/ | | \|  /__ $c|__| |__] |___ _/\_       $a))
